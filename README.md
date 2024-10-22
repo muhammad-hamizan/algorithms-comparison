@@ -1,6 +1,4 @@
-
-## Name
-Algorithm Complexity Comparison for Save Gotham Problem
+# Algorithm Complexity Comparison for Save Gotham Problem
 
 ## Description
 This project compares the efficiency and performance of two algorithms with different time complexities in solving the "Save Gotham" problem from [GeeksforGeeks](https://www.geeksforgeeks.org/problems/save-gotham1222/1). The problem involves finding a solution to an array-based problem in which we compare elements in a specific way to save Gotham city.
@@ -12,15 +10,12 @@ The project demonstrates the performance impact of choosing algorithms with diff
 [![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-orange.svg)](https://matplotlib.org/)
 
-## Visuals
-(Consider adding visuals like performance charts comparing runtime on different input sizes, or screenshots of the code execution.)
-
 ## Installation
 To install and run the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone (https://github.com/muhammad-hamizan/algorithms-comparison.git)
     ```
 
 2. **Install dependencies**:
@@ -50,7 +45,7 @@ python algorithms_comparison.py
 ```
 
 ## Support
-For any issues or questions regarding the project, feel free to open an issue on the repository or contact us via email at support@savegothamproject.com.
+For any issues or questions regarding the project, feel free to open an issue on the repository or contact us via email at hamizan.r.muhammad@gmail.com.
 
 ## Roadmap
 - **Planned Features**:
@@ -68,7 +63,7 @@ We welcome contributions to improve the performance or add additional features t
 5. Open a Pull Request.
 
 ## Authors and acknowledgment
-This project is developed by [Your Name]. Special thanks to the GeeksforGeeks platform for providing the problem statement.
+This project is developed by Ghazy Fadhal Ramadhan, Muhammad Rafie Hamizan. Special thanks to the GeeksforGeeks platform for providing the problem statement.
 
 ## Project status
 The project is actively maintained and open to new ideas and contributions. Future updates will focus on adding new features and optimizing the current implementation.
