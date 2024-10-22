@@ -15,7 +15,7 @@ To install and run the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone (https://github.com/muhammad-hamizan/algorithms-comparison.git)
+    git clone https://github.com/muhammad-hamizan/algorithms-comparison.git
     ```
 
 2. **Install dependencies**:
